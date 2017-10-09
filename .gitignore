@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+venv3/
+.idea
 # Distribution / packaging
 .Python
 env/
@@ -99,3 +101,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+.idea/
+
+venv3/bin/
+venv3/include/
+venv3/pyvenv.cfg
